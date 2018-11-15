@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+.loginerror {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #ff0000;
+	background-color: #ffffff;
+	border-color: #ebccd1;
+}
+.msg {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #31708f;
+	background-color: #c0c0c0;
+	border-color: #000080;
+}
+#login-box {
+	width: 300px;
+	padding: 20px;
+	margin: 100px auto;
+	background: #80ffff;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border: 1px solid #000;
+} 
